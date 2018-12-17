@@ -1,2 +1,2 @@
 # di-centos-python3-flask
-Docker Image for Python 3.7.1 with Flask 1.0.2
+Docker Image with CentOS 7, Python 3.7.1 and Flask 1.0.2
